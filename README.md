@@ -11,7 +11,7 @@ Offer
 Hired
 
 **Tools Used**
-SQL
+SQL, Power BI
 
 **Analysis Performed**
 Stage-wise candidate counts
@@ -29,4 +29,9 @@ CTE (Common Table Expressions)
 CASE statements
 Self Join
 Aggregations
+**Power BI Concepts Used**
+ DAX
+ Funnel Chart
+ Table
+ Cards for Key Metrics
 
